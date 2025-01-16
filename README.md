@@ -1,3 +1,4 @@
+![logo](https://github.com/SamarthSha/SamarthSha/blob/main/Github_banner.png)
 <h1 align="center">Hi 👋, I'm Samarth Sharma</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
